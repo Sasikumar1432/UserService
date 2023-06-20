@@ -55,6 +55,8 @@ export class AppComponent  implements OnInit{
       observer.complete()
     }, 4000);
   });
+
+  
 }
 
 
